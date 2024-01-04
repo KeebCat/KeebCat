@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi, I like open source! I want to make software to help others, but first I need to get good at programming, so let's do this :D
 
 <!--
 **KeebCat/KeebCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
